@@ -1,0 +1,15 @@
+C:\Users\79033\Documents\Lab04-Захарова\bin\Debug\net10.0\Lab04-Захарова.exe
+C:\Users\79033\Documents\Lab04-Захарова\bin\Debug\net10.0\Lab04-Захарова.deps.json
+C:\Users\79033\Documents\Lab04-Захарова\bin\Debug\net10.0\Lab04-Захарова.runtimeconfig.json
+C:\Users\79033\Documents\Lab04-Захарова\bin\Debug\net10.0\Lab04-Захарова.dll
+C:\Users\79033\Documents\Lab04-Захарова\bin\Debug\net10.0\Lab04-Захарова.pdb
+C:\Users\79033\Documents\Lab04-Захарова\obj\Debug\net10.0\Lab04-Захарова.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79033\Documents\Lab04-Захарова\obj\Debug\net10.0\Lab04-Захарова.AssemblyInfoInputs.cache
+C:\Users\79033\Documents\Lab04-Захарова\obj\Debug\net10.0\Lab04-Захарова.AssemblyInfo.cs
+C:\Users\79033\Documents\Lab04-Захарова\obj\Debug\net10.0\Lab04-Захарова.csproj.CoreCompileInputs.cache
+C:\Users\79033\Documents\Lab04-Захарова\obj\Debug\net10.0\Lab04-Захарова.sourcelink.json
+C:\Users\79033\Documents\Lab04-Захарова\obj\Debug\net10.0\Lab04-Захарова.dll
+C:\Users\79033\Documents\Lab04-Захарова\obj\Debug\net10.0\refint\Lab04-Захарова.dll
+C:\Users\79033\Documents\Lab04-Захарова\obj\Debug\net10.0\Lab04-Захарова.pdb
+C:\Users\79033\Documents\Lab04-Захарова\obj\Debug\net10.0\Lab04-Захарова.genruntimeconfig.cache
+C:\Users\79033\Documents\Lab04-Захарова\obj\Debug\net10.0\ref\Lab04-Захарова.dll
